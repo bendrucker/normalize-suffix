@@ -1,0 +1,35 @@
+{
+  "name": "normalize-suffix",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Normalize an object based on a specified suffix",
+  "license": "MIT",
+  "repository": "bendrucker/normalize-suffix",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "object",
+    "normalize",
+    "data",
+    "suffix"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^7.0.0"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "ends-with": "~0.2.0",
+    "is-obj": "~1.0.1"
+  }
+}
