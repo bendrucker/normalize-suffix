@@ -1,7 +1,7 @@
 {
   "name": "normalize-suffix",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Normalize an object based on a specified suffix",
   "license": "MIT",
   "repository": "bendrucker/normalize-suffix",
