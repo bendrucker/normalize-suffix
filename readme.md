@@ -1,4 +1,4 @@
-# normalize-suffix [![Build Status](https://travis-ci.org/bendrucker/normalize-suffix.svg?branch=master)](https://travis-ci.org/bendrucker/normalize-suffix)
+# normalize-suffix [![Build Status](https://travis-ci.org/bendrucker/normalize-suffix.svg?branch=master)](https://travis-ci.org/bendrucker/normalize-suffix) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/normalize-suffix.svg)](https://greenkeeper.io/)
 
 > Normalize an object based on a specified suffix
 
